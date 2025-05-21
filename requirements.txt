@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+sentence-transformers
+unstructured
+PyPDF2
+streamlit
+huggingface_hub
+groq
