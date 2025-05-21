@@ -17,7 +17,7 @@ import html2text
 st.set_page_config(page_title="🧠 Multi-Source RAG Chatbot", layout="wide")
 st.title("🔍 RAG Chatbot with PDFs, URLs, and Directories")
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "load-your-personal-groq-api-key"
 
 # Initialize LLM
 llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0.3)
