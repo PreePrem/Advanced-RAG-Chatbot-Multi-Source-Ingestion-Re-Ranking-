@@ -1,4 +1,4 @@
-# Advanced-RAG-Chatbot-Multi-Source-Ingestion-Re-Ranking-
+# Advanced-RAG-Chatbot-Multi-Source-Ingestion-Re-Ranking
 
 
 # 🧠 Advanced RAG Chatbot — Multi-Source Ingestion + Re-Ranking + Chat History
@@ -13,7 +13,6 @@ This project is an **upgraded Retrieval-Augmented Generation (RAG)** chatbot bui
 - 🧹 HTML text cleaning & formatting normalization
 - 🧠 Semantic chunking with `RecursiveCharacterTextSplitter`
 - 🧾 Re-ranking with `ContextualCompressionRetriever`
-- 💬 Chat history preservation across questions
 - 🧰 Exception handling for missing content, chunking failures, and broken URLs
 - 🧪 Easy to switch between different vector search techniques (default: FAISS)
 
